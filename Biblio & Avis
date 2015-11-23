@@ -1,0 +1,14 @@
+http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html
+Projet qui vise à faire une IA sur la résolution de Pacman. Le projet est intéressant, mais a priori non ouvert à la rediffusion. De plus, le projet est plus compliqué que ce qu’il est bon de faire comme première approche à l’intelligence artificielle dans le cadre de PLM
+
+http://www.cs.princeton.edu/courses/archive/spr04/cos226/assignments/rogue.html
+Résolution d’un exercice de type Rogue. Dans un labyrinthe, un explorateur cherche à s’enfuir d’un monstre qui le poursuit. Les réponses ne sont pas fournies, le projet est réutilisable. Il semble intéressant aussi, notamment parce que les cas de tests pour penser son IA sont variés (types de donjons)
+
+http://leekwars.com/ ou  http://codecombat.com/ 
+Deux jeux qui enseignent à coder une IA. Ce sont des jeux complets, longs et qui me semblent difficilement applicables au sein de PLM, qui a une approche moins ouverte et plus axée exercices. En revanche, ce sont d’excellents outils d’approfondissement sur l’intelligence artificielle.
+
+http://emmanuel.adam.free.fr/site/spip.php?rubrique46 
+Exercice d’intelligence artificielle sur le Tic Tac Toe et contient des liens vers d’autres sites concernant l’intelligence artificielle. Ce sera le site que j’utiliserai principalement dans le cadre de PLM.
+
+http://www.extremetech.com/extreme/197886-teaching-mario-to-play-with-himself-ai-machine-learning-and-super-mario-bros
+Explique un fonctionnement de l'IA par de la grammaire et de l'autoapprentissage.
