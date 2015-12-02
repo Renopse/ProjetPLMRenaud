@@ -1,0 +1,6 @@
+Après expérience sur le monde 1,
+Instructions longues.
+compliqué de comprendre ce qui ne va pas lors d'une erreur.
+Peu guidé dans la partie code (ça pourrait être rendu plus intuitif en mettant en indication dans la partie code les fonctions à utiliser, par exemple.
+mauvaise expérience sur stocker et manipuler les données => BDR. On nous dit d'utiliser litMessage puis dans les indications (qu'on ne veut pas lire au début pour tout faire sans aide) on nous dit d'utiliser des char.
+BDR2 est faisable avec des if.
