@@ -12,3 +12,25 @@ Exercice d’intelligence artificielle sur le Tic Tac Toe et contient des liens 
 
 http://www.extremetech.com/extreme/197886-teaching-mario-to-play-with-himself-ai-machine-learning-and-super-mario-bros
 Explique un fonctionnement de l'IA par de la grammaire et de l'autoapprentissage.
+
+http://code.org
+Principe d'exercices simples, principalement pour des enfants. Les premiers exercices sont axés sur un principe de bloc que l'on remplit avec des fonctions prédéfinies. Du contenu avec un comtpe est disponible, mais je n'ai aps encore regardé.
+
+https://www.codecademy.com
+De même, un site d'apprentissage interactif. Moins accès ludique, et l'air d'aovir un but lucratif. Est plus accès outils internet (angularJs, ruby on rails, développer son premier site web...). A un principe de quizz que je n'ai aps testé mais semble intéressant. Donne une estimation du temsp d'un cours.
+
+https://www.codeavengers.com/
+Propose de coder un jeu, par exemple. De même que PLM, une interface d'instructions, une de code, une de visualisation. Il a l'air de donner plus de fonctions prédéfinies que PLM. Propose d'avoir hints ou solution. Donne un score à la réalisation d'un exercice (10 si réussi sans aide, 5 sinon).
+
+https://scratch.mit.edu/
+TODO : Pas encore regardé.
+
+http://www.kisskissbankbank.com/gleamcode-mon-jeu-pour-apprendre-a-coder
+TODO : Pas encore regardé.
+
+https://www.bloc.io/ruby-warrior#/
+On incarne un guerrier qui doit aller tout en haut d'un donjon. On code ses interactions en ruby. les sources sont disponibles : https://github.com/ryanb/ruby-warrior. Ressemble à CodeCombat, de prime abord.
+
+http://chessprogramming.wikispaces.com/
+Excellent site "non ludique" pour apprendre l'IA appliquée aux échecs.
+
