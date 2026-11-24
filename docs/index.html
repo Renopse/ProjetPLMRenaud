@@ -1069,7 +1069,7 @@ function sendChat() {
 }
 
 // ---------- instructions pour Claude (via un formulaire Google, sans compte Claude)
-const FEEDBACK = { form: '/*FORM*/', entry: '/*ENTRY*/' };
+const FEEDBACK = { form: 'https://docs.google.com/forms/d/e/1FAIpQLSdMPTmJETVw2zd1A91SXa94vFKcy5H1NkMzsHPJhsX4iJQlQA/formResponse', entry: 'entry.1201158378' };
 const feedbackReady = () => /^https:\/\/docs\.google\.com\/forms\//.test(FEEDBACK.form) && /^entry\.\d+$/.test(FEEDBACK.entry);
 function notesHistory() { try { return JSON.parse(localStorage.getItem('sv_notes') || '[]'); } catch (e) { return []; } }
 function renderNotes() {
